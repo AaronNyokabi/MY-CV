@@ -1,1 +1,1 @@
-# MY-CV
+This CV showcases my professional background, technical skills, education, and experience in web development. It highlights my dedication to building user-focused, responsive, and innovative digital solutions.# MY-CV
